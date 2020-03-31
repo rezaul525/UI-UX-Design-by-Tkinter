@@ -134,7 +134,7 @@ def sub_action():
 # <--- Start of button--->
 label_frame4 = ttk.LabelFrame(root, text='Submit Your Details By Clicking "SUBMIT"')
 label_frame4.grid(row=4,column=0, padx=5,pady=5, sticky=tk.W)
-# label_frame4.configure(='yellow')
+
 
 submit_btn = ttk.Button(label_frame4, text='SUBMIT', command= sub_action)
 submit_btn.grid(row=7, column=0, sticky=tk.W,padx=2,pady=2)
