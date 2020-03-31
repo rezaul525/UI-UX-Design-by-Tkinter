@@ -1,0 +1,5 @@
+Rezaul,21,abc@gmail.com,STAFF,No
+Lucy,20,lucy@hotmail.com,STAFF,Yes
+Md Rezaul islam,7,dujdh,OTHERS,Yes
+Tahjib Islam,45,hgfxashFemale,STUDENT,No
+Sayeed Ahmed,56,sayeed@gmail.com,Male,STUDENT,No
