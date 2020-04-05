@@ -1,4 +1,4 @@
-# UI-UX-Design-by-Tkinter
+# GU UI-UX-Design-by-Tkinter
 
 Here user can easily put his/her file into a. csv or. txt file.
 By storing data over the app.
